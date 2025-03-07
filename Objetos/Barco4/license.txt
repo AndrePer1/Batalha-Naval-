@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boat UUU
+* source:	https://sketchfab.com/3d-models/boat-uuu-55121d0f05a24a42ba55d48935fe6529
+* author:	gogiart (https://sketchfab.com/agt14032013)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boat UUU" (https://sketchfab.com/3d-models/boat-uuu-55121d0f05a24a42ba55d48935fe6529) by gogiart (https://sketchfab.com/agt14032013) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
